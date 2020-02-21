@@ -2,84 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aba2123-c0b9-446e-a361-607e02039963" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/ru/itmo/FoodItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/ru/itmo/GenericItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/ru/itmo/ItemCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/ru/itmo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/src/ru/itmo/TechnicalItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/src/ru/itmo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/src/ru/itmo/task1/FoodItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/src/ru/itmo/task1/GenericItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/src/ru/itmo/task1/ItemCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/src/ru/itmo/task2/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/lab4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/ru/itmo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/ru/itmo/catalog/CatalogLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/ru/itmo/catalog/CatalogStubLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/ru/itmo/catalog/ItemCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/ru/itmo/models/FoodItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/ru/itmo/models/GenericItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/src/ru/itmo/models/ItemCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/catalog/CatalogFileLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/catalog/CatalogLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/catalog/CatalogStubLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/catalog/ItemCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/exceptions/CatalogLoadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/exceptions/ItemAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/exceptions/NegativeQuantityException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/models/FoodItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/models/GenericItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/models/ItemCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/sync/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/src/ru/itmo/sync/BankThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/lab6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/lib/h2-1.4.200.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/lib/mysql-connector-java-8.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/mysqlinit.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/catalog/CatalogDBLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/catalog/CatalogFileLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/catalog/CatalogLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/catalog/CatalogStubLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/catalog/ItemCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/dao/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/dao/H2InMemoryConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/dao/ItemDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/dao/ItemResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/dao/MySQLConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/dao/SQLItemDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/exceptions/CatalogLoadException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/exceptions/ItemAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/exceptions/NegativeQuantityException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/models/FoodItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/models/GenericItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/src/ru/itmo/models/ItemCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/src/ru/itmo/FirstClass.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/src/ru/itmo/Main.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab2/ru/itmo/FoodItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab2/ru/itmo/GenericItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab2/ru/itmo/ItemCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab2/ru/itmo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab2/ru/itmo/TechnicalItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lab3/ru/itmo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,12 +202,24 @@
       <option name="presentableId" value="Default" />
       <updated>1582272181614</updated>
       <workItem from="1582272184708" duration="21051000" />
-      <workItem from="1582316090189" duration="2499000" />
+      <workItem from="1582316090189" duration="2614000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1582318787592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582318787592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Project_Structure" timestamp="1582318174007">
@@ -310,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="703" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582310346495" />
-    <state x="585" y="103" key="CommitChangelistDialog2" timestamp="1582318760873">
+    <state x="585" y="103" key="CommitChangelistDialog2" timestamp="1582318787055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="103" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582318760873" />
+    <state x="585" y="103" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582318787055" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1582318171921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -354,6 +290,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="540" height="524" key="StructurePopup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582279962958" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1582318814366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582318814366" />
     <state x="656" y="257" width="607" height="526" key="find.popup" timestamp="1582272512563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
